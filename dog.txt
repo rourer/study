@@ -1,1 +1,1 @@
-name = soopy
+name = bingo
